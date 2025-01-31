@@ -6,6 +6,7 @@ public class ATMSimulation {
     private static final String USER = "root";  // MySQL username
     private static final String PASSWORD = "Maddheshiya1@";  // MySQL password
 
+    //Main method
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Connection connection = null;
